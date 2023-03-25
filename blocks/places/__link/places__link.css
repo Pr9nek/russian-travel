@@ -4,3 +4,7 @@
     line-height: 122%;
     margin: 0;
 }
+
+.places__link:hover {
+    opacity: 0.8;
+}
