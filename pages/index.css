@@ -33,3 +33,92 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
+.intro {
+    padding-top: 92px;
+    max-width: 690px;
+    padding-left: 148px;
+
+}
+
+@media screen and (max-width: 1024px){
+    .intro {
+        padding-top: 92px;
+        padding-left: 48px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .intro {
+        padding-top: 88px;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .intro {
+        padding-top: 64px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+
+.intro__title {
+    font-size: 54px;
+    line-height: 107%;
+    margin: 0;
+    color: white;
+}
+
+@media screen and (max-width: 320px){
+    .intro__title {
+        font-size: 32px;
+        line-height: 109%;
+    }
+}
+
+.intro__text {
+    font-size: 16px;
+    line-height: 163%;
+    margin: 0;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 33px;
+}
+
+@media screen and (max-width: 320px){
+    .intro__text {
+        padding-bottom: 34px;
+    }
+}
+
+.intro__list {
+    font-size: 12px;
+    line-height: 150%;
+    color: white;
+}
+
+.footer__links {
+    display: flex;
+    gap: 18px;
+    font-size: 16px;
+    line-height: 1.125;
+}
+
+@media screen and (max-width: 700px) {
+    .footer__links {
+        flex-direction: column;
+        font-size: 24px;
+        line-height: 1;
+        gap: 32px;
+    }  
+}  
+
+@media screen and (max-width: 320px) {
+    .footer__links {
+        gap: 32px;
+        font-size: 24px;
+        line-height: 1;
+    }  
+}  
