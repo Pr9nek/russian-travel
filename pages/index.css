@@ -3,6 +3,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__conatiner/page__container.css);
 @import url(../blocks/page/__nav/page__nav.css);
+@import url(../blocks/page/__texts/page__texts.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__links/header___links.css);
@@ -34,29 +35,6 @@
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-
-.footer__links {
-    display: flex;
-    gap: 18px;
-    font-size: 16px;
-    line-height: 1.125;
-}
-
-@media screen and (max-width: 700px) {
-    .footer__links {
-        flex-direction: column;
-        font-size: 24px;
-        line-height: 1;
-        gap: 32px;
-    }  
-}  
-
-@media screen and (max-width: 320px) {
-    .footer__links {
-        gap: 32px;
-        font-size: 24px;
-        line-height: 1;
-    }  
-}  
