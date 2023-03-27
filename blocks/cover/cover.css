@@ -1,5 +1,14 @@
 .cover {
     position: relative;
+    padding-right: 48px;
+    padding-left: 48px;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover{
+        padding-right: 0;
+        padding-left: 0;
+    }    
 }
 
 .cover::before {

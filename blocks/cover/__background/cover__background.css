@@ -12,8 +12,6 @@
     .cover__background {
         height: 640px;
         background-image: url(../../../images/cover-trains-1024.jpeg);
-        margin-left: -48px;
-        margin-right: -48px;
     }
 }
 
@@ -21,8 +19,6 @@
     .cover__background {
         height: 480px;
         background-image: url(../../../images/cover-trains-1024.jpeg);
-        margin-left: -24px;
-        margin-right: -24px;
     }
 }
 
@@ -30,8 +26,6 @@
     .cover__background {
         height: 200px;
         background-image: url(../../../images/cover-trains-320.svg);
-        margin-left: -24px;
-        margin-right: -24px;
     }
 }
 
@@ -39,8 +33,6 @@
     .cover__background {
         height: 200px;
         gap: 16px;
-        margin-left: -16px;
-        margin-right: -16px;
         background-size: cover;
         background-image: url(../../../images/cover-trains-320.svg);
     }

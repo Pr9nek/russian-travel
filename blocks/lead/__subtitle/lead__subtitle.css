@@ -9,9 +9,18 @@
     padding-bottom: 64px;
 }
 
+@media screen and (max-width: 768px) {
+    .lead__subtitle  {
+        padding-top: 32px;
+        padding-bottom: 56px;
+    }   
+}
+
 @media screen and (max-width: 320px) {
     .lead__subtitle  {
         font-size: 16px;
         line-height: 125%;
+        padding-top: 16px;
+        padding-bottom: 40px;
     }   
 }

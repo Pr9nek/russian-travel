@@ -1,5 +1,4 @@
 .places__card {
-    max-width: 984px;
     display: grid;
     grid-template-columns: repeat(auto-fit, calc((100% - 40px)/2));
     gap: 48px 40px;
@@ -29,11 +28,11 @@ padding-bottom: 0;
 .places__card {
     grid-template-columns: repeat(auto-fit, calc((100% - 28px)/2));
     gap: 48px 28px;
-    padding-bottom: 72px;
+    padding-bottom: 73px;
     }    
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 550px) {
 .places__card {
     grid-template-columns: 100%;
     padding-bottom: 50px;
