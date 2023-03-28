@@ -14,12 +14,12 @@
 Сайт должен одинаково хорошо выглядеть в браузерах  
 Google, Yandex и Mozilla firefox.  
   
-Элементы не должны «ломаться» и выглядеть, как в макете,  
+Элементы не должны «ломаться» и должны выглядеть, как в макете,  
 между точками перелома. 
 
 **Ссылка на GitHub проекта**
 
-* [Ссылка на GitHub проекта](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на GitHub проекта](https://pr9nek.github.io/russian-travel/)
 
 **Технологии**
 
