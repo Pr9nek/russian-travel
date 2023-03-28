@@ -1,7 +1,10 @@
 .places__url {
+    text-transform: uppercase;
+    font-weight: 400;
     color: #AAAAAA;
     font-size: 12px;
     line-height: 12px;
+    letter-spacing: 2px;
     margin: 0;
     padding-bottom: 12px;
 }

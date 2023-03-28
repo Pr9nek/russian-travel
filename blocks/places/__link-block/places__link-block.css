@@ -1,3 +1,5 @@
 .places__link-block {
+    display: flex;
+    flex-direction: column;
     align-self: self-end;
 }
