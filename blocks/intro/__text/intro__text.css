@@ -6,6 +6,13 @@
     color: white;
     padding-top: 40px;
     padding-bottom: 33px;
+    max-width: 690px;
+}
+
+@media screen and (max-width: 768px){
+    .intro__text {
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: 320px){
