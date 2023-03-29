@@ -6,8 +6,8 @@
     justify-content: center;
     gap: 32px;
     min-height: 740px;
+    background: url(../../../images/cover-trains.jpg);
     background-size: cover;
-    background-image: url(../../../images/cover-trains.jpg);
 }
 
 .cover__link-background::before {
