@@ -1,4 +1,5 @@
 .places__link {
+    max-width: fit-content;
     color: white;
     font-size: 18px;
     line-height: 122%;
