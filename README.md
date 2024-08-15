@@ -11,9 +11,7 @@ Google, Yandex и Mozilla firefox.
 Элементы не должны «ломаться» и должны выглядеть, как в макете,  
 между точками перелома. 
 
-**Ссылка на GitHub проекта**
-
-* [Ссылка на GitHub проекта](https://pr9nek.github.io/russian-travel/)
+[Ссылка на проект](https://pr9nek.github.io/russian-travel/)
 
 **STACK**
 
